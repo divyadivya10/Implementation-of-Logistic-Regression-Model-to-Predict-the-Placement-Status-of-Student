@@ -78,6 +78,8 @@ confusion
 from sklearn.metrics import classification_report
 classification_report = classification_report(y_test,y_pred)
 print(classification_report)
+print("Name: Divya R")
+print("Reg no : 212222040040")
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
@@ -102,7 +104,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## confusion matrix
 ![image](https://github.com/user-attachments/assets/4cf95e7a-9a46-446a-8e56-1626808b25dd)
 ## classification report
-![image](https://github.com/user-attachments/assets/628c6875-c1c0-40f8-8fe8-2f10eee9e490)
+![image](https://github.com/user-attachments/assets/20d1f245-8899-47c0-9845-bed4ab20201d)
+
 ## prediction
 ![image](https://github.com/user-attachments/assets/72803270-8e5f-4e5b-a17f-682fb66075d3)
 
